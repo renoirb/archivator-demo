@@ -1,0 +1,17 @@
+{
+  "name": "recipesbook",
+  "version": "1.0.0",
+  "description": "Recipes cookbook sample static site",
+  "scripts": {
+    "build": "node_modules/.bin/metalsmith"
+  },
+  "author": "Renoir Boulanger <hello@renoirboulanger.com> (http://renoirb.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "archivator": "https://github.com/renoirb/archivator/tarball/master",
+    "handlebars": "^4.0.10",
+    "metalsmith": "^2.3.0",
+    "metalsmith-layouts": "^1.8.1",
+    "metalsmith-markdown": "^0.2.1"
+  }
+}

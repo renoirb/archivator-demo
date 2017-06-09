@@ -1,0 +1,4 @@
+node_modules/
+build/
+!archive/index.csv
+archive/*
