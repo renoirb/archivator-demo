@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "description": "Recipes cookbook sample static site",
   "scripts": {
-    "build": "node_modules/.bin/metalsmith"
+    "build": "node_modules/metalsmith/bin/metalsmith",
+    "archive": "node node_modules/archivator/dist/cli.js"
   },
   "author": "Renoir Boulanger <hello@renoirboulanger.com> (http://renoirb.com/)",
   "license": "MIT",
   "dependencies": {
-    "archivator": "https://github.com/renoirb/archivator/tarball/master",
+    "archivator": "git+https://github.com/renoirb/archivator.git",
     "handlebars": "^4.0.10",
     "metalsmith": "^2.3.0",
     "metalsmith-layouts": "^1.8.1",

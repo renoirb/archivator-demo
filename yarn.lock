@@ -57,9 +57,9 @@ ansi-wrap@0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/ansi-wrap/-/ansi-wrap-0.1.0.tgz#a82250ddb0015e9a27ca82e82ea603bbfa45efaf"
 
-"archivator@https://github.com/renoirb/archivator/tarball/master":
+"archivator@git+https://github.com/renoirb/archivator.git":
   version "1.0.0"
-  resolved "https://github.com/renoirb/archivator/tarball/master#c532af42298d54f227461cf4c857ec87592ab4bc"
+  resolved "git+https://github.com/renoirb/archivator.git#9e6b66a0e3f5b444a4d532c4148d0e7407928692"
   dependencies:
     async-file "^2.0.2"
     babel-polyfill "^6.23.0"
@@ -883,13 +883,13 @@ mime-types@^2.1.12, mime-types@~2.1.7:
   dependencies:
     mime-db "~1.27.0"
 
-minimatch@3.0.3:
+minimatch@3.0.3, minimatch@^3.0.0:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.0.3.tgz#2a4e4090b96b2db06a9d7df01055a62a77c9b774"
   dependencies:
     brace-expansion "^1.0.0"
 
-minimatch@^3.0.0, minimatch@^3.0.4:
+minimatch@^3.0.4:
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.0.4.tgz#5166e286457f03306064be5497e8dbb0c3d32083"
   dependencies:
