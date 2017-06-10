@@ -4,20 +4,17 @@
   <meta charset="UTF-8" />
   <title>{{ title }}</title>
   <meta name="description" content="{{ description }}">
+  <link rel="canonical" href="{{ url }}" />
 </head>
 <body>
   <header>
-    <p>
-      <a href="/">Home</a>
-    </p>
+    <h1>{{ title }}</h1>
   </header>
-  <h1>{{ title }}</h1>
-  <p>{{ description }}</p>
-
+  <article>
   {{{ contents }}}
-
+  </article>
   <footer>
-    <p>Generated with {{ generator }} &mdash; <a href="{{ url }}">{{ url }}</a></p>
+     <p>This is an archived version coming originally from <a href="{{ url }}">{{ url }}</a> and archived using <a href="https://github.com/renoirb/archivator-demo">Archivator</a>.</p>
   </footer>
 
 </body>
