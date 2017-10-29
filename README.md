@@ -10,7 +10,7 @@ and describe how you want them to look locally.
 
         git clone https://github.com/renoirb/archivator-demo.git cookbook
         cd cookbook
-        yarn install
+        yarn
 
 
 1. Add an URL to a recipe you like to `archive/index.csv`
@@ -26,7 +26,7 @@ and describe how you want them to look locally.
     Which should write a copy of the page in `archive/finecooking.com/recipe/hot-garlicky-shrimp-with-asparagus/`,
     copy all images to it, and create a simplified version `index.md` in Markdown format.
 
-        npm run archive
+        yarn archive
 
 
 1. Make the archived URLs into HTML
@@ -34,7 +34,7 @@ and describe how you want them to look locally.
     You can give it the look you want by changing `layouts/default.hbs`. It's just a rough starting point.
     Take a look at the awesome [Metalsmith](http://www.metalsmith.io/) project.
 
-        npm run build
+        yarn build
 
     Which will read all `archive/**/index.md` into respective `build/**/index.html`
 
@@ -52,5 +52,3 @@ where there will be other features than exporting into Markdown and then HTML.
 
 Other *Archivator* features should include indexing content to ElasticSearch.
 
-
-You may want to see This proje

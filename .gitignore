@@ -2,3 +2,4 @@ node_modules/
 build/
 !archive/index.csv
 archive/*
+.DS_Store
