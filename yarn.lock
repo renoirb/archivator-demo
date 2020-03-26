@@ -65,9 +65,10 @@ ansi-wrap@0.1.0:
   dependencies:
     sylvester ">= 0.0.8"
 
-"archivator@git+https://github.com/renoirb/archivator.git":
+archivator@^1.0.0:
   version "1.0.0"
-  resolved "git+https://github.com/renoirb/archivator.git#41cf72456a60d616d162c648e972eb12b46ee71f"
+  resolved "https://registry.yarnpkg.com/archivator/-/archivator-1.0.0.tgz#754694018ecba3d5d9ce7e29b13acde284c1d401"
+  integrity sha512-SecNLUTIb4bsqplti07kbPW7/YQSLSRP7Xjrd/lw8KM5rNFzQogmPg3N7o5Veobs9S0aO+Z9gphjlzbvdeyBaw==
   dependencies:
     async-file "^2.0.2"
     babel-polyfill "^6.23.0"

@@ -9,7 +9,7 @@
   "author": "Renoir Boulanger <hello@renoirboulanger.com> (http://renoirb.com/)",
   "license": "MIT",
   "dependencies": {
-    "archivator": "git+https://github.com/renoirb/archivator.git",
+    "archivator": "^1.0.0",
     "handlebars": "^4.0.10",
     "metalsmith": "^2.3.0",
     "metalsmith-layouts": "^1.8.1",
