@@ -1,5 +1,5 @@
 node_modules/
-build/
+dist/
 !archive/index.csv
 archive/*
 .DS_Store

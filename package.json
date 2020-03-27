@@ -1,14 +1,25 @@
 {
   "name": "recipesbook",
-  "version": "1.0.0",
+  "version": "0.0.1",
+  "private": true,
   "description": "Recipes cookbook sample static site",
-  "scripts": {
-    "build": "node_modules/metalsmith/bin/metalsmith",
-    "archive": "node node_modules/archivator/dist/cli.js"
-  },
-  "author": "Renoir Boulanger <hello@renoirboulanger.com> (http://renoirb.com/)",
   "license": "MIT",
-  "dependencies": {
+  "author": {
+    "name": "Renoir Boulanger",
+    "email": "contribs@renoirboulanger.com"
+  },
+  "files": [
+    "dist",
+    "archive"
+  ],
+  "scripts": {
+    "archive": "archivator",
+    "build": "use-run-all dist",
+    "dist": "use-run-all --serial archive metalsmith",
+    "metalsmith": "metalsmith"
+  },
+  "devDependencies": {
+    "@renoirb/tools-bundling-helpers": "^1.0.2",
     "archivator": "^1.0.0",
     "handlebars": "^4.0.10",
     "metalsmith": "^2.3.0",

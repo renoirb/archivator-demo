@@ -1,11 +1,13 @@
 {
   "source": "archive",
-  "destination": "build",
+  "destination": "dist",
   "plugins": [
-     {"metalsmith-markdown": true}
-    ,{"metalsmith-layouts": {
-       "engine": "handlebars"
-      ,"default": "default.hbs"
-     }}
+    { "metalsmith-markdown": true },
+    {
+      "metalsmith-layouts": {
+        "engine": "handlebars",
+        "default": "default.hbs"
+      }
+    }
   ]
 }
