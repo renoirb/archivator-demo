@@ -1,7 +1,7 @@
 # Make your Archivator archive a static site
 
 This is an example of how you could list sites you want to archive
-and describe how you want them to look locally.
+and describe how you want them to look locally leveraging [renoirb/archivator](https://github.com/renoirb/archivator) [![npm](https://img.shields.io/npm/v/archivator?style=flat-square&label=npm&logo=npm)](https://www.npmjs.com/package/archivator).
 
 ## Use
 
