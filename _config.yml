@@ -1,0 +1,11 @@
+collections:
+  archives:
+    path: 'archives'
+    output: true
+    permalink: /archives/:path/
+
+defaults:
+  - scope:
+    path: 'archives'
+    type: archives
+
