@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 {% if page.source %}
     <link rel="canonical" href="{{ page.source }}" />
 {% endif %}
-{% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
+    <a id="skip-to-content" href="#content" style="display:none">Skip to the content.</a>
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
@@ -25,8 +24,10 @@
       {% endif %}
     </header>
 
-    <main id="content" class="main-content" role="main">
-      {{ content }}
+    <main id="content" class="main-content-parent">
+      <div class="main-content" role="main">
+        {{ content }}
+      </div>
 
       <footer class="site-footer">
         {% if page.source %}

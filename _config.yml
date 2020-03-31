@@ -1,8 +1,10 @@
 theme: jekyll-theme-cayman
+show_downloads: false
 
 collections:
   archives:
-    path: 'archives'
+    label: archives
+    path: archives
     output: true
     permalink: /archives/:path/
 
@@ -10,4 +12,7 @@ defaults:
   - scope:
     path: 'archives'
     type: archives
+    values:
+      is_archive: true
+      is_project_page: false
 
