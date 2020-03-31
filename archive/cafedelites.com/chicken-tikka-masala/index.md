@@ -10,7 +10,7 @@ Chicken Tikka Masala is so easy to make right at home in one pan with simple ing
 
 This rich and creamy flavoursome Chicken tikka rivals any Indian restaurant! Why go out when you can make it better at home! With aromatic golden chicken pieces swimming in an incredible curry sauce, this Chicken Tikka Masala recipe is one of the best you will try!
 
-![](dd4841fc7b13a63234a779b72623db6ca0a3572d)
+![](208150660f8b030e58b9701311dc2c58956b3fcd.jpg)
 
 <!-- Chicken Tikka Masala is creamy and easy to make right at home in one pan with simple ingredients!Full of incredible flavours, it rivals any Indian restaurant! Aromatic golden chicken pieces in an incredible creamy curry sauce, this Chicken Tikka Masala recipe is one of the best you will try! -->
 
