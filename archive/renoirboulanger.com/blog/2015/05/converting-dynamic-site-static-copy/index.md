@@ -1,7 +1,6 @@
 ---
 url: https://renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/
 title: "Converting a dynamic site into static HTML documents – Renoir Boulanger"
-
 ---
 
 Posted on [2015-05-202015-06-03][0] by [Renoir Boulanger][1]
