@@ -8,6 +8,8 @@ Posted on [2015-05-202015-06-03][0] by [Renoir Boulanger][1]
 
 # Converting a dynamic site into static HTML documents 
 
+![](./5f7e9463f96f333c721775646094148ca3d604b8.png)
+
 Its been two times now that I've been asked to make a website that was running on a CMS and make it static. 
 
 This is an useful practice if you want to keep the site content for posterity without having to maintain the underlying CMS. It makes it easier to migrate sites since the sites that you know you won't add content to anymore becomes simply a bunch of HTML files in a folder. 
