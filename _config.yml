@@ -7,8 +7,7 @@ collections:
 defaults:
   - scope:
     path: 'archives'
-    type: archives
-    values:
-      layout: archive
+    type: archive
 
 theme: jekyll-theme-cayman
+
