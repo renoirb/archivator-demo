@@ -2,9 +2,10 @@
 url: http://www.finecooking.com/recipe/hot-garlicky-shrimp-with-asparagus-lemon
 source: http://www.finecooking.com/recipe/hot-garlicky-shrimp-with-asparagus-lemon
 title: 'Hot Garlicky Shrimp with Asparagus & Lemon'
+tags:
+  - shrimp
+  - recipe
 ---
-
-Recipe 
 
 # Hot Garlicky Shrimp with Asparagus & Lemon 
 
@@ -64,8 +65,6 @@ Pair with rice, noodles, or a [Bright, Herby Orzo][2].
 
 Love to cook? Sign up today to get daily recipes from Fine Cooking plus special offers 
 
-[Sign Up][9] 
-
 [0]: https://www.finecooking.com/author/tony-rosenfeld
 [1]: https://www.finecooking.com/issue/2007/04/issue-85
 [2]: /recipes/orzo-lemon-garlic-parmigiano-herbs.aspx
@@ -75,4 +74,4 @@ Love to cook? Sign up today to get daily recipes from Fine Cooking plus special 
 [6]: https://www.finecooking.com/tag/crushed-red-pepper-flakes
 [7]: https://www.finecooking.com/ingredient/olive-oil
 [8]: https://www.finecooking.com/ingredient/garlic
-[9]: /pages/newsletter-signup?ref=EUsignup
+
