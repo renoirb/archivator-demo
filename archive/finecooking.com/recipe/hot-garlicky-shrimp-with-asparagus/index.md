@@ -1,7 +1,7 @@
 ---
 url: http://www.finecooking.com/recipe/hot-garlicky-shrimp-with-asparagus-lemon
-title: "Hot Garlicky Shrimp with Asparagus & Lemon - Recipe - FineCookingFine CookingMoveable FeastFacebookLinkedInEmailPinterestTwitterInstagramYouTube IconNavigation Search IconMain Search IconVideo Play IconPlus IconMinus IconCheck IconPrint IconNote IconHeart IconFilled Heart IconSingle Arrow IconDouble Arrow IconHamburger IconTV IconClose IconSortedHamburger/Search Icon"
-
+source: http://www.finecooking.com/recipe/hot-garlicky-shrimp-with-asparagus-lemon
+title: 'Hot Garlicky Shrimp with Asparagus & Lemon'
 ---
 
 Recipe 
