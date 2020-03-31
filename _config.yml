@@ -12,7 +12,4 @@ defaults:
   - scope:
     path: 'archives'
     type: archives
-    values:
-      is_archive: true
-      is_project_page: false
 
