@@ -10,7 +10,9 @@ Chicken Tikka Masala is so easy to make right at home in one pan with simple ing
 
 This rich and creamy flavoursome Chicken tikka rivals any Indian restaurant! Why go out when you can make it better at home! With aromatic golden chicken pieces swimming in an incredible curry sauce, this Chicken Tikka Masala recipe is one of the best you will try!
 
-### ![Chicken Tikka Masala is creamy and easy to make right at home in one pan with simple ingredients!Full of incredible flavours, it rivals any Indian restaurant! Aromatic golden chicken pieces in an incredible creamy curry sauce, this Chicken Tikka Masala recipe is one of the best you will try! | cafedelites.com](dd4841fc7b13a63234a779b72623db6ca0a3572d)
+![](dd4841fc7b13a63234a779b72623db6ca0a3572d)
+
+<!-- Chicken Tikka Masala is creamy and easy to make right at home in one pan with simple ingredients!Full of incredible flavours, it rivals any Indian restaurant! Aromatic golden chicken pieces in an incredible creamy curry sauce, this Chicken Tikka Masala recipe is one of the best you will try! -->
 
 ### How do you make chicken tikka masala?
 
@@ -22,7 +24,7 @@ We are still coating and marinating our chicken with an aromatic spiced Tikka yo
 
 You CAN use breasts if you wish, but I suggest marinating them overnight for better results. This gives the yogurt time to tenderise them, yielding a better result when cooking over high heat.
 
-![Chicken Tikka Yogurt | cafedelites.com](e34129b0e5af87da7fc6666d664062bd179b8425)
+![Chicken Tikka Yogurt](e34129b0e5af87da7fc6666d664062bd179b8425)
 
 ### Pot Or Skillet
 
@@ -41,7 +43,7 @@ The combination of spices going into this creamy, tomato based sauce is so perfe
 * Ground Coriander
 * Turmeric
 
-![Chicken Tikka Masala Sauce | cafedelites.com](dd4841fc7b13a63234a779b72623db6ca0a3572d)
+![Chicken Tikka Masala Sauce](dd4841fc7b13a63234a779b72623db6ca0a3572d)
 
 ### Chili Options:
 
@@ -53,7 +55,7 @@ This is personal preference. Over the years I've tried both AND made both option
 
 We prefer the non blended sauce. It's easier, less mess and not necessary! Especially when the most crucial flavours are strained right out. You WANT those flavours in your curry.
 
-![Chicken Tikka Masala with Basmati Rice and Naan bread | cafedelites.com](dd4841fc7b13a63234a779b72623db6ca0a3572d)
+![Chicken Tikka Masala with Basmati Rice and Naan bread](dd4841fc7b13a63234a779b72623db6ca0a3572d)
 
 ### What to serve with Chicken Tikka Masala
 
@@ -67,15 +69,17 @@ The BEST side is hot and fresh Basmati rice and Naan bread. If you can't find an
 
 Chicken Tikka Masala is creamy and easy to make right at home in one pan with simple ingredients!Full of incredible flavours, it rivals any Indian restaurant! Aromatic golden chicken pieces in an incredible creamy curry sauce, this Chicken Tikka Masala recipe is one of the best you will try!
 
-[PRINT][8] [SAVE][10]
+Prep
+: 15 mins
 
-Prep: 15 mins
+Cook
+: 30 mins
 
-Cook: 30 mins
+Total
+: 45 mins
 
-Total: 45 mins
-
-Serves: 5 - 6 people
+Serves
+: 5 - 6 people
 
 ### Ingredients
 
@@ -123,28 +127,54 @@ Serves: 5 - 6 people
 
 ### Nutrition
 
-Calories: 580kcal | Carbohydrates: 17g | Protein: 36g | Fat: 41g | Saturated Fat: 19g | Cholesterol: 250mg | Sodium: 1601mg | Potassium: 973mg | Fiber: 3g | Sugar: 8g | Vitamin A: 1895IU | Vitamin C: 19.5mg | Calcium: 171mg | Iron: 4.1mg
+Calories
+: 580kcal
 
-* [][1]
-* [][2]
-* * [][3]
-* [][4]
-* [][5]
-* [][6]
+Carbohydrates
+: 17g
+
+Protein
+: 36g
+
+Fat
+: 41g
+
+Saturated Fat
+: 19g
+
+Cholesterol
+: 250mg
+
+Sodium
+: 1601mg
+
+Potassium
+: 973mg
+
+Fiber
+: 3g
+
+Sugar
+: 8g
+
+Vitamin A
+: 1895IU
+
+Vitamin C
+: 19.5mg
+
+Calcium
+: 171mg
+
+Iron
+: 4.1mg
+
 
 Filed Under: [Chicken][11] Tagged With: [chicken][12], [curry][13], [Indian][14], [Tikka Masala][15]
 
 [0]: https://cafedelites.com/author/liberationhotmail-com-au/
-[1]: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcafedelites.com%2Fchicken-tikka-masala%2F&t=Chicken%20Tikka%20Masala
-[2]: https://twitter.com/intent/tweet?text=Chicken%20Tikka%20Masala&url=https%3A%2F%2Fcafedelites.com%2Fchicken-tikka-masala%2F
-[3]: mailto:?subject=Chicken%20Tikka%20Masala&body=https%3A%2F%2Fcafedelites.com%2Fchicken-tikka-masala%2F
-[4]: https://www.yummly.com/urb/verify?url=https%3A%2F%2Fcafedelites.com%2Fchicken-tikka-masala%2F&title=Chicken%20Tikka%20Masala&image=https://cafedelites.com/wp-content/uploads/2018/04/Best-Chicken-Tikka-Masala-IMAGE-2.jpg
-[5]: https://www.tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Fcafedelites.com%2Fchicken-tikka-masala%2F
-[6]: https://share.flipboard.com/bookmarklet/popout?v=2&url=https%3A%2F%2Fcafedelites.com%2Fchicken-tikka-masala%2F&title=Chicken%20Tikka%20Masala
 [7]: #wprm-recipe-container-51814
-[8]: https://cafedelites.com/wprm_print/51814
 [9]: https://cafedelites.com/easy-garlic-flatbread-recipe/
-[10]: https://cafedelites.com/your-collections/#/
 [11]: https://cafedelites.com/category/dinner-recipes/chicken-recipes/
 [12]: https://cafedelites.com/tag/chicken/
 [13]: https://cafedelites.com/tag/curry/
