@@ -79,7 +79,9 @@ If you already have Node.js v10+ installed already with `npx`, you can do the fo
 
 ### Using GitHub pages and Jekyll
 
-1. See the following copy, [archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/index.md](./archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/index.md), visible as [renoirb.github.io/archivator-demo/archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/](https://renoirb.github.io/archivator-demo/archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/)
+1. See the following copy;
+  - [archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/index.md](./archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/index.md), visible as [renoirb.github.io/archivator-demo/archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/](https://renoirb.github.io/archivator-demo/archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/)
+  - [archive/finecooking.com/recipe/hot-garlicky-shrimp-with-asparagus/index.md](./archive/finecooking.com/recipe/hot-garlicky-shrimp-with-asparagus/index.md), visible as [renoirb.github.io/archive/finecooking.com/recipe/hot-garlicky-shrimp-with-asparagus/](https://renoirb.github.io/archivator-demo/archive/finecooking.com/recipe/hot-garlicky-shrimp-with-asparagus/)
 1. Reproduce [`_config.yml`](./_config.yml)
 1. ... you're on your own. Ruby is hard. I haven't successfully made this work, wo I can't document :(
 
