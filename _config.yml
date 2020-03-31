@@ -12,6 +12,4 @@ defaults:
   - scope:
     path: 'archives'
     type: archives
-    values:
-      is_archive: true
 
