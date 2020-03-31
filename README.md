@@ -76,6 +76,14 @@ If you already have Node.js v10+ installed already with `npx`, you can do the fo
 
    ![Recipe available locally with images](Screenshot-Archive-Recipe-Static-Site-Preview.png)
 
+
+### Using GitHub pages and Jekyll
+
+1. See the following copy, [archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/index.md](./archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/index.md), visible as [renoirb.github.io/archivator-demo/archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/](https://renoirb.github.io/archivator-demo/archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/)
+1. Reproduce [`_config.yml`](./_config.yml)
+1. ... you're on your own. Ruby is hard. I haven't successfully made this work, wo I can't document :(
+
+
 ## Next up
 
 Since this project is just about binding Archivator and a Static HTML site.
