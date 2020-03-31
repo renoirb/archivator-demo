@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <article class="archive">
   <header>
     <h1>{{ page.title | escape }}</h1>
@@ -10,19 +11,19 @@ layout: default
   <div class="archive-content">
     {{ content }}
   </div>
+  <footer>
+    <div class="col-md-12">
+      <p>This is an archived version coming originally from <a href="{{ page.url }}">{{ page.url }}</a> and archived using <a href="https://github.com/renoirb/archivator">Archivator</a>.</p>
+    </div>
+  </footer>
+  <style>
+    body > footer {
+      padding: 40px 0;
+      color: #999;
+      text-align: center;
+      background-color: #f9f9f9;
+      border-top: 1px solid #e5e5e5;
+    }
+  </style>
 
 </article>
-<footer>
-  <div class="col-md-12">
-    <p>This is an archived version coming originally from <a href="{{ page.url }}">{{ page.url }}</a> and archived using <a href="https://github.com/renoirb/archivator">Archivator</a>.</p>
-  </div>
-</footer>
-<style>
-  body > footer {
-    padding: 40px 0;
-    color: #999;
-    text-align: center;
-    background-color: #f9f9f9;
-    border-top: 1px solid #e5e5e5;
-  }
-</style>
