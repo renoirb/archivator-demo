@@ -8,4 +8,5 @@ defaults:
   - scope:
     path: 'archives'
     type: archives
-
+    values:
+      layout: archive
