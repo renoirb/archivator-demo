@@ -84,3 +84,9 @@ As such, you may want to take a look at [renoirb/archivator](https://github.com/
 where there will be other features than exporting into Markdown and then HTML.
 
 Other _Archivator_ features should include indexing content to ElasticSearch.
+
+
+## Archived
+
+{{ site.collections | where: "label", "archives" | first }}
+
