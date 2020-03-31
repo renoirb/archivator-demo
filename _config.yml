@@ -10,3 +10,5 @@ defaults:
     type: archives
     values:
       layout: archive
+
+theme: jekyll-theme-cayman
