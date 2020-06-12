@@ -7,7 +7,7 @@ title: "Caramelized Onion Hummus Recipe"
 
 September 26, 2018 By [Shannon @ Yup, it's Vegan][0]
 
-I cooked a big batch of chickpeas a couple of weeks ago and thought I'd try my hand at making a copycat of Cava's amazing caramelized onion hummus. The homemade version is nearly as good and makes a giant bowl of hummus instead of a tiny tub for $7 ;).
+I cooked a big batch of chickpeas a couple of weeks ago and thought I'd try my hand at making a copycat of Cava's amazing caramelized onion hummus. The homemade version is nearly as good and makes a giant bowl of hummus instead of a tiny tub for $7 <span aria-hidden="true" title="smile">;)</span>.
 
 ![Creamy caramelized onion hummus in a blue ceramic bowl, topped with caramelized onions](278a77f8330a42c314bf9a983137ad34aeabb69d.jpg)
 
