@@ -1,6 +1,6 @@
 ---
 url: https://yupitsvegan.com/caramelized-onion-hummus/
-title: "Caramelized Onion Hummus Recipe"
+title: "Caramelized Onion Hummus"
 source: https://yupitsvegan.com/caramelized-onion-hummus/
 ---
 
