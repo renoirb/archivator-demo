@@ -88,9 +88,9 @@ If you already have Node.js v10+ installed already with `npx`, you can do the fo
 
 1. See the following copy;
 
-   - **[renoirb.github.io/archivator-demo/archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/](https://renoirb.github.io/archivator-demo/archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/)** [source](./archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/index.md)
-   - **[renoirb.github.io/archive/finecooking.com/recipe/hot-garlicky-shrimp-with-asparagus/](https://renoirb.github.io/archivator-demo/archive/finecooking.com/recipe/hot-garlicky-shrimp-with-asparagus)** [source](./archive/finecooking.com/recipe/hot-garlicky-shrimp-with-asparagus/index.md)
-   - **[renoirb.github.io/archivator-demo/archive/yupitsvegan.com/caramelized-onion-hummus](https://renoirb.github.io/archivator-demo/archive/yupitsvegan.com/caramelized-onion-hummus/)** [source](./archive/yupitsvegan.com/caramelized-onion-hummus/index.md)
+   - **[renoirb.github.io/archivator-demo/archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/](https://renoirb.github.io/archivator-demo/archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/)** (<small>[source](./archive/renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy/index.md)</small>)
+   - **[renoirb.github.io/archive/finecooking.com/recipe/hot-garlicky-shrimp-with-asparagus/](https://renoirb.github.io/archivator-demo/archive/finecooking.com/recipe/hot-garlicky-shrimp-with-asparagus)** (<small>[source](./archive/finecooking.com/recipe/hot-garlicky-shrimp-with-asparagus/index.md)</small>)
+   - **[renoirb.github.io/archivator-demo/archive/yupitsvegan.com/caramelized-onion-hummus](https://renoirb.github.io/archivator-demo/archive/yupitsvegan.com/caramelized-onion-hummus/)** (<small>[source](./archive/yupitsvegan.com/caramelized-onion-hummus/index.md)</small>)
 
 1. ... you’re on your own. Ruby is hard (for a Non Ruby developer as myself). I haven't successfully made this work yet, I’ll update this soon.
 
