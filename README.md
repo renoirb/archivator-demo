@@ -25,7 +25,7 @@ If you already have Node.js v10+ installed already with `npx`, you can do the fo
 
    ```console
    cd archivator-demo
-   npx archivator@^1.0.0
+   npx archivator@^1.0.2
    ```
 
 1. Have a look at all the directories created and copies of the pages
