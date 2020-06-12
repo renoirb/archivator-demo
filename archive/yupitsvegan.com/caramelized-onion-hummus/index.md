@@ -11,7 +11,7 @@ I cooked a big batch of chickpeas a couple of weeks ago and thought I'd try my h
 
 ![Creamy caramelized onion hummus in a blue ceramic bowl, topped with caramelized onions](278a77f8330a42c314bf9a983137ad34aeabb69d.jpg)
 
-Store bought hummus is always pretty hit and miss for me. By no means am I draconian about these things, but I feel like I can taste the extra preservatives and natural flavors in a way that affects my eating experience. That is, unless I splurge on brands like [Cava][2], [Hope][3] etc. The other type of hummus I seem to consistently enjoy is the kind served at Levantine restaurants.
+Store bought hummus is always pretty hit and miss for me. By no means am I draconian about these things, but I feel like I can taste the extra preservatives and natural flavors in a way that affects my eating experience. That is, unless I splurge on brands like **Cava**, **Hope** etc. The other type of hummus I seem to consistently enjoy is the kind served at Levantine restaurants.
 
 It took me a long time to figure out why this preference is, but I think it really comes down to the quality and freshness of the tahini. The most delicious, rich, restaurant-style hummus is made with a boatload of tahini in it, and their tahini isn't the same one we're buying at the grocery store. It's made from fresh sesame seeds that are deeply roasted, bringing out their natural sweetness and imparting a little smoky flavor. Basically, it tastes good enough that I actually want to eat a dip that's mostly tahini.\*
 
